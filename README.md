@@ -11,4 +11,4 @@ Put your API key in the App.jsx file. Line 7
 ```npm run dev```
 
 ## Demo
-![demo-dietplan](https://github.com/alibinauanov/dietplan-truwers-nyushdic/assets/106968134/74240fc1-d283-4acb-97c1-1448ff7107cb)
+<img src="https://github.com/alibinauanov/dietplan-truwers-nyushdic/assets/106968134/74240fc1-d283-4acb-97c1-1448ff7107cb" width="250" height="250"/>
