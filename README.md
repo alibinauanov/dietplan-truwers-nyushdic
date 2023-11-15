@@ -1,5 +1,6 @@
 # Team Truwers - NYUSH Digital Innovation Challenge
-<img src="https://github.com/alibinauanov/dietplan-truwers-nyushdic/assets/106968134/15b2a7b3-2cb1-4fbd-b491-b66d8900dec3" width="170" height="400"/>
+![dietPlan](https://github.com/alibinauanov/dietplan-truwers-nyushdic/assets/106968134/40ae03a8-48e4-485e-9232-837c5ad7f74c)
+
 
 ## Install all dependencies
 ```npm i```
